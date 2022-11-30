@@ -8,7 +8,7 @@
 
 ## ENV
 
-see [.env.example](./env.example)
+see [.env.example](./.env.example)
 
 ```bash
 CONTRACT=YOUR_CONTRACT_ADDRESS
